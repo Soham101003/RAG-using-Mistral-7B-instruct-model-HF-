@@ -3,6 +3,8 @@
 This project implements a Retrieval-Augmented Generation (RAG) pipeline for a medical question-answering chatbot using LangChain and large language models (LLMs).
 The system enhances LLM responses by grounding them in a curated medical knowledge base, improving factual accuracy and reliability.
 
+# link: https://colab.research.google.com/drive/1B-W01H7yndSvaaiATWztNvCghoysXHok?usp=sharing
+
 🚀 Overview
 
 The notebook builds an end-to-end RAG application that:
