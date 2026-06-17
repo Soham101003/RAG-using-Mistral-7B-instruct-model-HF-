@@ -18,6 +18,19 @@ The system:
 
 By combining semantic search with generative AI, the system produces more reliable and domain-specific answers, making it suitable for healthcare-focused conversational applications.
 
+
+## 📊 Project Snapshot
+
+| Category | Details |
+|-----------|-----------|
+| Architecture | Retrieval-Augmented Generation (RAG) |
+| Domain | Healthcare & Medical Q&A |
+| Embedding Model | all-MiniLM-L6-v2 |
+| Vector Database | FAISS |
+| LLM | Mistral-7B-Instruct-v0.2 |
+| Framework | LangChain |
+| Dataset | ruslanmv/ai-medical-chatbot |
+| Task | Context-Aware Medical Question Answering |
 ---
 
 # 🏗️ System Architecture
