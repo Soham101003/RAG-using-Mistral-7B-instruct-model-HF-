@@ -1,16 +1,13 @@
-# RAG-using-Mistral-7B-instruct-model-HF-
 
-This project implements a Retrieval-Augmented Generation (RAG) pipeline for a medical question-answering chatbot using LangChain and large language models (LLMs).
-The system enhances LLM responses by grounding them in a curated medical knowledge base, improving factual accuracy and reliability.
 
-## link: https://colab.research.google.com/drive/1B-W01H7yndSvaaiATWztNvCghoysXHok?usp=sharing
+
 
 # 🚀 Overview
 
 This project implements an end-to-end **Retrieval-Augmented Generation (RAG) pipeline** for medical question answering using LangChain, FAISS, Hugging Face embeddings, and the Mistral-7B-Instruct language model.
 
 Traditional Large Language Models rely solely on information learned during training, which can lead to outdated knowledge and hallucinated responses. Retrieval-Augmented Generation addresses this limitation by grounding responses in an external knowledge base before answer generation.
-
+### link to the notebook in case it does not load due to widgets : https://colab.research.google.com/drive/1B-W01H7yndSvaaiATWztNvCghoysXHok?usp=sharing
 The system:
 
 * Ingests and processes a medical conversational dataset
